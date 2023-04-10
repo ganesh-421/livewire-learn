@@ -1,0 +1,1 @@
+<input type="text" class="{{ $attributes->wire('loading').value('')}}" {{ $attributes }}>
